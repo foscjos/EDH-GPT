@@ -21,3 +21,7 @@ edh-gpt-ui/.env.production.local
 edh-gpt-ui/npm-debug.log*
 edh-gpt-ui/yarn-debug.log*
 edh-gpt-ui/yarn-error.log*
+
+# api
+EDH-GPT.API/EDH-GPT.API/bin
+EDH-GPT.API/EDH-GPT.API/obj
