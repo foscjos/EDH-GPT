@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+edh-gpt-ui/node_modules
+edh-gpt-ui/.pnp
+edh-gpt-ui.pnp.js
+
+# testing
+edh-gpt-ui/coverage
+
+# production
+edh-gpt-ui/build
+
+# misc
+edh-gpt-ui/.DS_Store
+edh-gpt-ui/.env.local
+edh-gpt-ui/.env.development.local
+edh-gpt-ui/.env.test.local
+edh-gpt-ui/.env.production.local
+
+edh-gpt-ui/npm-debug.log*
+edh-gpt-ui/yarn-debug.log*
+edh-gpt-ui/yarn-error.log*
